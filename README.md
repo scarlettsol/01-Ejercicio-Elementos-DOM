@@ -8,4 +8,4 @@ Código base para realizar ejercicio de demostración de interacción con elemen
 
 ## Enlace recomendado
 
-- w3schools.com: JS HTML DOM
+- [w3schools.com: JS HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
